@@ -12,7 +12,7 @@ if ("serviceWorker" in navigator) {
   console.log("si tiene");
 
   navigator.serviceWorker
-    .register("./sw.js")
+    .register("/PWA2024/sw.js")
     .then((res) => console.log("serviceWorker cargado"))
     .catch((err) => console.log("serviceWorker no se puede cargar"));
 } else {
