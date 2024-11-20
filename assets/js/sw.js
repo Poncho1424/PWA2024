@@ -3,18 +3,18 @@ const CACHE_NAME = "v1_cache_PWA";
 // Archivos que se almacenarán en la caché
 var urlsToCache = [
     './',
-    './css/styles.css',
-    './img/PEPE.jpeg',
-    './img/foto.jpg',
-    './img/PEPE16x16.jpeg',
-    './img/PEPE32x32.jpeg',
-    './img/PEPE64x64.jpeg',
-    './img/PEPE128x128.jpeg',
-    './img/PEPE196x196.jpeg',
-    './img/PEPE256x256.jpeg',
-    './img/PEPE384x384.jpeg',
-    './img/PEPE512x512.jpeg',
-    './img/PEPE1024x1024.jpeg'
+    './styles.css',
+    './PEPE.jpeg',
+    './foto.jpg',
+    './PEPE16x16.jpeg',
+    './PEPE32x32.jpeg',
+    './PEPE64x64.jpeg',
+    './PEPE128x128.jpeg',
+    './PEPE196x196.jpeg',
+    './PEPE256x256.jpeg',
+    './PEPE384x384.jpeg',
+    './PEPE512x512.jpeg',
+    './PEPE1024x1024.jpeg'
 
 ];
 
