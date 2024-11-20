@@ -8,7 +8,7 @@
 "orientation": "portrait",
 "display":"standalone",
 "start_url":"/PWA2024?utm_source=web_app_manifest",
-"scope":"./",
+"scope":"/",
 "lang":"es-MX",
 "icons":[
 {
