@@ -1,81 +1,54 @@
-
- {
-"name":"PWAProject",
-"short_name":"AM PWA",
-"description": "IPWA Personal CV Application",
-"background_color":"#FFF",
-"theme_color":"#EBD758",
-"orientation": "portrait",
-"display":"standalone",
-"start_url":"/PWA2024?utm_source=web_app_manifest",
-"scope":"/",
-"lang":"es-MX",
-"icons":[
 {
-    "src":"./PEPE16x16.jpeg",
-    "sizes":"16x16",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-
-},   
-{
-    "src":"./PEPE32x32.jpeg",
-    "sizes":"32x32",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-},
-{
-    "src":"./PEPE64x64.jpeg",
-    "sizes":"64x64",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-}, 
-{
-    "src":"./PEPE96x96.jpeg",
-    "sizes":"96x96",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-},
-
-{
-    "src":"./PEPE128x128.jpeg",
-    "sizes":"128x128",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-},
-{
-    "src":"./PEPE196x196.jpeg",
-    "sizes":"196x196",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-},
-{
-    "src":"./PEPE256x256.jpeg",
-    "sizes":"256x256",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-},
-
-{
-    "src":"./PEPE384x384.jpeg",
-    "sizes":"384x384",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-},
-
-{
-    "src":"./PEPE512x512.jpeg",
-    "sizes":"512x512",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-
-},
-{
-    "src":"./PEPE1024x1024.jpeg",
-    "sizes":"1024x1024",
-    "type": "image/jpeg",
-    "form_factor": "wide"
-}
-
-]
+    "name": "AM PWA",
+    "short_name": "AM PWA",
+    "description": "IPWA Personal CV Application",
+    "background_color": "#FFF",
+    "theme_color": "#EBD758",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/PWA2024?utm_source=web_app_manifest",
+    "scope": "/",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "./PEPE72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "./PEPE96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./PEPE128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./PEPE144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./PEPE152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "./PEPE192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./PEPE384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./PEPE512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
