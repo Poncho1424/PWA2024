@@ -12,66 +12,66 @@
 "lang":"es-MX",
 "icons":[
 {
-    "src":".img/PEPE16x16.jpeg",
+    "src":"./PEPE16x16.jpeg",
     "sizes":"16x16",
     "type": "image/jpeg",
     "form_factor": "wide"
 
 },   
 {
-    "src":".img/PEPE32x32.jpeg",
+    "src":"./PEPE32x32.jpeg",
     "sizes":"32x32",
     "type": "image/jpeg",
     "form_factor": "wide"
 },
 {
-    "src":".img/PEPE64x64.jpeg",
+    "src":"./PEPE64x64.jpeg",
     "sizes":"64x64",
     "type": "image/jpeg",
     "form_factor": "wide"
 }, 
 {
-    "src":".img/PEPE96x96.jpeg",
+    "src":"./PEPE96x96.jpeg",
     "sizes":"96x96",
     "type": "image/jpeg",
     "form_factor": "wide"
 },
 
 {
-    "src":".img/PEPE128x128.jpeg",
+    "src":"./PEPE128x128.jpeg",
     "sizes":"128x128",
     "type": "image/jpeg",
     "form_factor": "wide"
 },
 {
-    "src":".img/PEPE196x196.jpeg",
+    "src":"./PEPE196x196.jpeg",
     "sizes":"196x196",
     "type": "image/jpeg",
     "form_factor": "wide"
 },
 {
-    "src":".img/PEPE256x256.jpeg",
+    "src":"./PEPE256x256.jpeg",
     "sizes":"256x256",
     "type": "image/jpeg",
     "form_factor": "wide"
 },
 
 {
-    "src":".img/PEPE384x384.jpeg",
+    "src":"./PEPE384x384.jpeg",
     "sizes":"384x384",
     "type": "image/jpeg",
     "form_factor": "wide"
 },
 
 {
-    "src":".img/PEPE512x512.jpeg",
+    "src":"./PEPE512x512.jpeg",
     "sizes":"512x512",
     "type": "image/jpeg",
     "form_factor": "wide"
 
 },
 {
-    "src":".img/PEPE1024x1024.jpeg",
+    "src":"./PEPE1024x1024.jpeg",
     "sizes":"1024x1024",
     "type": "image/jpeg",
     "form_factor": "wide"
